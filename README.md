@@ -2,6 +2,7 @@
 
 A basic calculator app that can calculate equations and return them for users.
 
+Link to project: https://lucasfaustman.github.io/basic-calculator/
 
 ## How It's Made:
 
