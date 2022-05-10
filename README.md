@@ -4,6 +4,7 @@ A basic calculator app that can calculate equations and return them for users.
 
 Link to project: https://lucasfaustman.github.io/basic-calculator/
 
+![basic-cal image](https://user-images.githubusercontent.com/99927513/167742322-120b1f58-4490-46e6-9cc9-59cdc21b0365.png)
 
 
 ## How It's Made:
